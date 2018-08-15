@@ -1,0 +1,5 @@
+{
+2018,
+API:[Jmeter, Katalon,RestAssured,Karate DSL,Postman]
+
+

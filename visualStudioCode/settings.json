@@ -1,0 +1,14 @@
+{
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "extensions.ignoreRecommendations": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.saveActions.organizeImports": true,
+    "explorer.confirmDelete": false,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+}

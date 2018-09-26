@@ -1,6 +1,8 @@
 {
 2018,
 API:[Jmeter, Katalon,RestAssured,Karate DSL,Postman]
-Chrome and chrme based tools
+
+Chrome Addons
+Angular Augury
 
 

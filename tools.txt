@@ -4,5 +4,9 @@ API:[Jmeter, Katalon,RestAssured,Karate DSL,Postman]
 
 Chrome Addons
 Angular Augury
-
-
+Chameleon(device testing)
+Bug Magnet (exploratory testing)
+LightShot(screenshot tool)
+SideeX, katalon studio (record and play)
+yslow(performance)
+performacne-analyzer(performance)

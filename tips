@@ -1,0 +1,4 @@
+To get the details of AWS instance
+wget -q -O - http://169.254.169.254/latest/meta-data/public-hostname
+or
+curl http://169.254.169.254/latest/metadata

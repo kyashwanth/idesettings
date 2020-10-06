@@ -1,14 +1,10 @@
-{
-2018,
-API:[Jmeter,RestAssured,Karate DSL,Postman]
-
-Chrome Addons
+#Chrome Addons
 Angular Augury
 Chameleon(device testing)
 Bug Magnet (exploratory testing)
 LightShot(screenshot tool)
 SideeX, katalon recorder (record and play)
-yslow(performance)
+yslow,lighthouse(performance)
 performance-analyzer(performance)
 Exploratory Testing Chrome Extension
  
